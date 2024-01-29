@@ -1,0 +1,1 @@
+# microservice-educ-config-server
